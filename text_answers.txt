@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Who is the author of the book 'Six Days Read for Success'?",
+      "choices": [
+        "Dr. Man",
+        "Dr. Robot",
+        "Dr. Brain",
+        "Dr. Performance"
+      ],
+      "correct_answer": "Dr. Man"
+    },
+    {
+      "question": "How many successful professionals has Dr. Man helped?",
+      "choices": [
+        "500",
+        "5,000",
+        "50,000",
+        "500,000"
+      ],
+      "correct_answer": "50,000"
+    },
+    {
+      "question": "How long does it take to finish reading at least one influential non-fiction book using Dr. Man's technique?",
+      "choices": [
+        "One day",
+        "Two days",
+        "Three days",
+        "Six days"
+      ],
+      "correct_answer": "Six days"
+    },
+    {
+      "question": "Who can benefit from Dr. Man's technique of triple reading speed?",
+      "choices": [
+        "Only robots",
+        "Everyone",
+        "Non-fiction authors",
+        "Procrastinators"
+      ],
+      "correct_answer": "Everyone"
+    },
+    {
+      "question": "What is the goal of Dr. Man's workshop?",
+      "choices": [
+        "To learn how to sleep while reading",
+        "To read all books in one minute",
+        "To unlock the robotic brain",
+        "To become a non-fiction book critic"
+      ],
+      "correct_answer": "To unlock the robotic brain"
+    },
+    {
+      "question": "How long is Dr. Man's workshop?",
+      "choices": [
+        "One day",
+        "Three days",
+        "Six days",
+        "Ten days"
+      ],
+      "correct_answer": "Six days"
+    },
+    {
+      "question": "What type of books does Dr. Man's technique primarily focus on?",
+      "choices": [
+        "Fiction books",
+        "Non-fiction books",
+        "Comic books",
+        "Children's books"
+      ],
+      "correct_answer": "Non-fiction books"
+    },
+    {
+      "question": "What is the main benefit of Dr. Man's technique?",
+      "choices": [
+        "Triple reading speed",
+        "Lucid dreaming",
+        "Improved sleep quality",
+        "Creative writing skills"
+      ],
+      "correct_answer": "Triple reading speed"
+    },
+    {
+      "question": "What does Dr. Man claim his workshop can bring to people's lives?",
+      "choices": [
+        "Massive success",
+        "Improved eyesight",
+        "Telepathic abilities",
+        "Mind-reading skills"
+      ],
+      "correct_answer": "Massive success"
+    },
+    {
+      "question": "Where can people join Dr. Man's workshop?",
+      "choices": [
+        "Click the button below",
+        "Visit his website",
+        "Call his office",
+        "Enroll at a university"
+      ],
+      "correct_answer": "Click the button below"
+    }
+  ]
+}
